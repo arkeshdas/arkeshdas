@@ -65,6 +65,7 @@ My work focuses on using statistical modeling, data pipelines, and clear visuali
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TriNetX](https://img.shields.io/badge/TriNetX-Clinical%20Research-4A90E2?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Julia](https://img.shields.io/badge/julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
