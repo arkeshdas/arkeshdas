@@ -15,7 +15,7 @@
 
 I build reproducible data science projects focused on healthcare systems, public health, and clinical research.
 
-I graduated from Michigan State University (4.00 GPA, Dean’s Research Scholar) with a bachelors in Data Science and a bachelors in Biotechnology, and I will begin medical school at the University of Toledo College of Medicine and Life Sciences in 2026 through the MedStart program.
+I'm a first year Medical Student at the  University of Toledo College of Medicine and Life Sciences and I graduated from Michigan State University (4.00 GPA, Dean’s Research Scholar) with a bachelors in Data Science and a bachelors in Biotechnology.
 
 My work focuses on using statistical modeling, data pipelines, and clear visualization to study healthcare access, clinical outcomes, and system-level inefficiencies, with growing interest in EMR-based research and real-world clinical data.
 
